@@ -1,1 +1,1 @@
-API_URL: 'http://api.adf.ly/api.php?key=088f7f7b2361eba31ee3baed2a2a9894&uid=1439250&advert_type=int&domain=adf.ly'
+API_URL: 'http://api.adf.ly/api.php?key=YOURKEY&uid=YOURUSERID&advert_type=int&domain=adf.ly'
